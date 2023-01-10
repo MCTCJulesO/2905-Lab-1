@@ -7,8 +7,7 @@ A greeting to you, using your name
 A message with the number of letters in your name
 A 'Happy birthday month!' message if you were born in the current month
 Easier - compare the user's input to "January" or "August" or whatever the current month is
-Harder - use Python to figure out the current month and use that in the comparison.
- Check out the datetime library."""
+Harder - use Python to figure out the current month and use that in the comparison. Check out the datetime library."""
 
 
 name = input('Hello, please enter your name ') #asking the users name
